@@ -1,4 +1,4 @@
-# Integrating Phytosociological Proxies to Improve Predictions of Tree Habitat Suitability: Potentials and Limitations
+# Integrating Phytosociological Proxies to Improve Predictions of Tree Species’ Local Ecological Performance: Potentials and Limitations
 
 [![Status](https://img.shields.io/badge/Status-Submitted%202026-orange)]()
 [![Journal](https://img.shields.io/badge/Journal-CJFR-darkgreen)]()
@@ -8,9 +8,9 @@
 
 This repository contains the data and reproducible analysis code supporting the manuscript:
 
-> **Czarnecki de Liz, J.P.**, Thiffault, N., D'Orangeville, L., Coops, N.C., & Achim, A. (*under review*). Integrating Phytosociological Proxies to Improve Predictions of Tree Habitat Suitability: Potentials and Limitations. *Canadian Journal of Forest Research*.
+> **Czarnecki de Liz, J.P.**, Thiffault, N., D'Orangeville, L., Coops, N.C., & Achim, A. (*under review*). Integrating Phytosociological Proxies to Improve Predictions of Tree Species’ Local Ecological Performance: Potentials and Limitations. *Canadian Journal of Forest Research*.
 
-Intensifying disturbances and climate change are disrupting forest ecosystems globally, making science-based adaptation strategies essential in forest management. Species distribution models (SDMs) support this task, but their predictive accuracy is often limited by a primary reliance on abiotic variables. We evaluated whether the incorporation of tree species co-occurrence data — a proxy for biotic interactions and habitat filtering — can improve habitat suitability predictions (operationalized as Importance Value, IV) in the boreal-temperate ecotone of Quebec, Canada. Using Random Forest regression, we compared abiotic-only versus abiotic + co-occurrence models for seven ecologically important tree species. Co-occurrence predictors consistently improved generalization to independent test data (test R² from 0.01–0.44 to 0.07–0.73), reduced prediction bias, and frequently displaced broad climatic predictors in importance rankings. These findings suggest that forest-inventory co-occurrence data offers a scalable baseline for habitat suitability predictions supporting climate-adaptive forestry.
+Intensifying disturbances and climate change are disrupting forest ecosystems globally, making science-based adaptation strategies essential in forest management. Species distribution models (SDMs) support this task, but their predictive accuracy is often limited by a primary reliance on abiotic variables. We evaluated whether the incorporation of tree species co-occurrence data — a proxy for biotic interactions and habitat filtering — can improve local ecological performance predictions (operationalized as Importance Value, IV) in the boreal-temperate ecotone of Quebec, Canada. Using Random Forest regression, we compared abiotic-only versus abiotic + co-occurrence models for seven ecologically important tree species. Co-occurrence predictors consistently improved generalization to independent test data (test R² from 0.01–0.44 to 0.07–0.73), reduced prediction bias, and frequently displaced broad climatic predictors in importance rankings. These findings suggest that forest-inventory co-occurrence data offers a scalable baseline for habitat suitability predictions supporting climate-adaptive forestry.
 
 **Keywords:** Eltonian shortfall, community assembly, realized niche, forest inventory, model calibration
 
